@@ -4,10 +4,6 @@
 - Amit Hayun [amitos684@gmail.com](amitos684@gmail.com)
 - Bar Loupo [barloupo@gmail.com](barloupo@gmail.com)
                     
-                    
-#### Academic advisor:
-- Dr .Marina Litvak  [litvak.marina@gmail.com](litvak.marina@gmail.com)
-- Dr .Irina Raviev  [irinar@ac.sce.ac.il](irinar@ac.sce.ac.il)
 
 
 
